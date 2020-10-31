@@ -1,0 +1,3 @@
+.col-no-padding{padding:0}
+.overlay-lightbox{background:rgba(0,0,0,.4);position:fixed;width:100%;height:100%;display:none;align-items:center;justify-content:center;top:0;left:0}.overlay-lightbox .lightbox{background:#fff;z-index:99999;max-height:90vh;box-shadow:0 0 5px rgba(0,0,0,.1);padding:0}.overlay-lightbox .lightbox .options{background:var(--lb_bar_color);height:50px;line-height:50px;padding-left:20px}.overlay-lightbox .lightbox .options .close_lightbox{color:#bababa;text-shadow:2px 0 0 #000;filter:drop-shadow(2px 0 0 #000)}.overlay-lightbox .lightbox .content-lightbox{padding:20px;overflow-y:auto;height:auto;max-height:85vh}
+
