@@ -17,8 +17,7 @@ var dest = {
 // plugins.min.css
 var bowerCss = ['node_modules/@fortawesome/fontawesome-free/css/all.css',
                 'node_modules/slick-carousel/slick/slick.css',
-                'node_modules/bootstrap/dist/css/bootstrap.min.css',
-                'node_modules/chart.js/dist/chart.min.css'
+                'node_modules/bootstrap/dist/css/bootstrap.min.css'
                 ];
 
 // plugins.min.js
@@ -29,8 +28,7 @@ var bowerJs = ['node_modules/jquery/dist/jquery.min.js',
                'node_modules/tinymce/tinymce.min.js',
                'node_modules/slick-carousel/slick/slick.js',
                'node_modules/jquery-validation/dist/jquery.validate.min.js',
-               'node_modules/is-in-viewport/lib/isInViewport.min.js',
-               'node_modules/chart.js/dist/chart.min.js'
+               'node_modules/is-in-viewport/lib/isInViewport.min.js'
                ];
 
 //uncomment function below if browserSync

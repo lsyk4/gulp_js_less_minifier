@@ -14,9 +14,7 @@
     "slick-carousel": "^1.8.1",
     "tinymce": "^4.8.2",
     "jquery-validation": "^1.17.0",
-    "is-in-viewport": "^3.0.4",
-    "chart.js": "^2.8.0",
-    "notifyjs": "3.0.0"
+    "is-in-viewport": "^3.0.4"
   },
   "devDependencies": {
     "browser-sync": "^2.17.5",
