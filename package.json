@@ -34,5 +34,11 @@
     "jshint-stylish": "^2.2.1",
     "less-plugin-clean-css": "^1.5.1",
     "natives": "^1.1.6"
+  },
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
   }
 }

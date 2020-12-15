@@ -2,7 +2,7 @@
 JavaScript libraries, JavaScript scripts, LESS, and CSS Minifier
 
 # Node Version  
-v11.15.0  
+v15.4.0  
 
 # Please, run the following commands in your project folder using a terminal  
 ```
